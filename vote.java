@@ -6,7 +6,7 @@ System.out.print("Enter your age: ");
 int age = sc.nextInt();
 
 if(age>=18)
-System.out.println("Hurrah! You can Vote") ;
+System.out.println("Hurrah! You can Vote, Put your Vote wisely...") ;
 else
-System.out.println("Sorry, You can't vote");
+System.out.println("Sorry, You can't vote...");
 }}
