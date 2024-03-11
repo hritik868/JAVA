@@ -1,4 +1,4 @@
-class sum {
+class sum_1 {
     public static void main(String[] args) {
         int num = Integer.parseInt(args[0]);
         int num1 = num;

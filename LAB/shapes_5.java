@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class shapes {
+public class shapes_5 {
 public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     Scanner scf = new Scanner(System.in);
