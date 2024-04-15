@@ -1,7 +1,7 @@
-public class bianrysearch {
+public class BinarySearch {
 public static void main(String[] args) {
     
-    int arr[] = {1,3,5,7,9,11,13,15,17,19};
+    int arr[] = {1,3,5,7,9,11,12,13,15,17,19};
     
     int result = binary(arr);
     System.out.println(result); 
